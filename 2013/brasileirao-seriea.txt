@@ -1,0 +1,380 @@
+Vitória       2 - 2 Internacional
+Vasco da Gama 1 - 0 Portugues    
+Corinthians   1 - 1 Botafogo     
+Santos        0 - 0 Flamengo     
+Grêmio        2 - 0 Náutico      
+Ponte Preta   0 - 2 São Paulo    
+Criciúma      3 - 1 Bahia        
+Cruzeiro      5 - 0 Goiás        
+Coritiba      2 - 1 Atlético MG  
+Fluminense    2 - 1 Atlético PR  
+Atlético PR   2 - 2 Cruzeiro     
+Botafogo      2 - 1 Santos       
+São Paulo     5 - 1 Vasco da Gama
+Bahia         0 - 0 Coritiba     
+Flamengo      0 - 2 Ponte Preta  
+Náutico       0 - 3 Vitória      
+Goiás         1 - 1 Corinthians  
+Internacional 2 - 0 Criciúma     
+Atlético MG   2 - 0 Grêmio       
+Portugues     2 - 1 Fluminense   
+Botafogo      2 - 1 Cruzeiro     
+Atlético PR   2 - 2 Flamengo     
+Santos        1 - 1 Grêmio       
+Goiás         1 - 1 Coritiba     
+Vitória       2 - 0 Vasco da Gama
+Corinthians   1 - 0 Ponte Preta  
+Internacional 1 - 2 Bahia        
+Fluminense    3 - 0 Criciúma     
+Náutico       2 - 2 Portugues    
+Atlético MG   0 - 0 São Paulo    
+São Paulo     0 - 1 Goiás        
+Criciúma      3 - 1 Santos       
+Portugues     1 - 1 Internacional
+Grêmio        1 - 0 Vitória      
+Ponte Preta   3 - 4 Atlético PR  
+Vasco da Gama 2 - 0 Atlético MG  
+Flamengo      0 - 1 Náutico      
+Bahia         2 - 1 Botafogo     
+Cruzeiro      1 - 0 Corinthians  
+Coritiba      2 - 1 Fluminense   
+Criciúma      0 - 3 Flamengo     
+Cruzeiro      2 - 2 Internacional
+Vasco da Gama 1 - 1 Bahia        
+Corinthians   0 - 0 Portugues    
+Ponte Preta   0 - 2 Botafogo     
+Vitória       3 - 2 Atlético PR  
+Fluminense    2 - 1 Goiás        
+Coritiba      1 - 0 Náutico      
+Santos        1 - 0 Atlético MG  
+Grêmio        1 - 1 São Paulo    
+Flamengo      2 - 2 Coritiba     
+Náutico       1 - 3 Ponte Preta  
+Atlético PR   1 - 1 Grêmio       
+Portugues     1 - 1 Cruzeiro     
+São Paulo     0 - 2 Santos       
+Bahia         0 - 2 Corinthians  
+Internacional 5 - 3 Vasco da Gama
+Goiás         1 - 0 Vitória      
+Atlético MG   3 - 2 Criciúma     
+Botafogo      1 - 0 Fluminense   
+Fluminense    2 - 3 Internacional
+Santos        4 - 1 Portugues    
+Ponte Preta   0 - 0 Bahia        
+Coritiba      1 - 0 Atlético PR  
+Corinthians   0 - 1 Atlético MG  
+Vitória       3 - 2 São Paulo    
+Grêmio        2 - 1 Botafogo     
+Vasco da Gama 0 - 1 Flamengo     
+Criciúma      0 - 0 Goiás        
+Cruzeiro      3 - 0 Náutico      
+São Paulo     0 - 3 Cruzeiro     
+Botafogo      2 - 0 Náutico      
+Criciúma      2 - 1 Grêmio       
+Vitória       0 - 0 Bahia        
+Internacional 1 - 0 Flamengo     
+Atlético PR   1 - 1 Corinthians  
+Santos        2 - 2 Coritiba     
+Goiás         2 - 1 Portugues    
+Fluminense    1 - 3 Vasco da Gama
+Atlético MG   4 - 0 Ponte Preta  
+Vasco da Gama 3 - 2 Criciúma     
+Portugues     2 - 3 Atlético PR  
+Ponte Preta   1 - 0 Santos       
+Náutico       3 - 0 Internacional
+Cruzeiro      4 - 1 Atlético MG  
+Corinthians   0 - 0 São Paulo    
+Grêmio        2 - 0 Fluminense   
+Bahia         2 - 1 Goiás        
+Flamengo      1 - 1 Botafogo     
+Coritiba      1 - 1 Vitória      
+Fluminense    1 - 0 Cruzeiro     
+Atlético MG   1 - 2 Atlético PR  
+Portugues     1 - 1 Criciúma     
+Coritiba      5 - 3 Ponte Preta  
+Corinthians   2 - 0 Grêmio       
+Bahia         3 - 0 Flamengo     
+Botafogo      2 - 0 Vitória      
+Goiás         1 - 1 Vasco da Gama
+Náutico       0 - 1 São Paulo    
+Internacional 1 - 2 Santos       
+São Paulo     1 - 2 Bahia        
+Cruzeiro      1 - 0 Coritiba     
+Atlético PR   2 - 0 Goiás        
+Grêmio        1 - 1 Internacional
+Ponte Preta   1 - 1 Fluminense   
+Criciúma      0 - 2 Corinthians  
+Flamengo      3 - 0 Atlético MG  
+Vasco da Gama 2 - 3 Botafogo     
+Vitória       2 - 1 Portugues    
+Santos        1 - 1 Náutico      
+São Paulo     0 - 1 Internacional
+Vitória       1 - 1 Fluminense   
+Criciúma      1 - 2 Cruzeiro     
+Atlético PR   1 - 0 Bahia        
+Flamengo      1 - 1 Portugues    
+Santos        1 - 1 Corinthians  
+Atlético MG   2 - 2 Botafogo     
+Goiás         2 - 1 Náutico      
+Vasco da Gama 1 - 1 Ponte Preta  
+Grêmio        0 - 1 Coritiba     
+Botafogo      1 - 1 Goiás        
+Náutico       0 - 0 Atlético MG  
+Cruzeiro      0 - 0 Santos       
+Coritiba      0 - 1 Vasco da Gama
+Fluminense    2 - 3 Flamengo     
+Corinthians   2 - 0 Vitória      
+Bahia         0 - 3 Grêmio       
+Internacional 2 - 2 Atlético PR  
+Ponte Preta   3 - 1 Criciúma     
+Portugues     2 - 1 São Paulo    
+Criciúma      3 - 0 Náutico      
+Atlético MG   2 - 0 Bahia        
+Santos        1 - 1 Vasco da Gama
+Coritiba      1 - 1 Portugues    
+Vitória       3 - 1 Ponte Preta  
+Grêmio        3 - 1 Cruzeiro     
+Goiás         1 - 1 Flamengo     
+Fluminense    0 - 0 Corinthians  
+São Paulo     1 - 1 Atlético PR  
+Botafogo      3 - 3 Internacional
+Náutico       0 - 1 Fluminense   
+Cruzeiro      5 - 1 Vitória      
+Vasco da Gama 2 - 3 Grêmio       
+Flamengo      0 - 0 São Paulo    
+Corinthians   1 - 0 Coritiba     
+Ponte Preta   0 - 1 Goiás        
+Portugues     1 - 3 Botafogo     
+Atlético PR   2 - 1 Criciúma     
+Bahia         0 - 0 Santos       
+Internacional 0 - 0 Atlético MG  
+Flamengo      0 - 1 Grêmio       
+Ponte Preta   0 - 2 Cruzeiro     
+Santos        2 - 0 Vitória      
+Criciúma      2 - 1 Coritiba     
+Atlético MG   2 - 1 Portugues    
+São Paulo     2 - 1 Fluminense   
+Bahia         2 - 0 Náutico      
+Vasco da Gama 1 - 1 Corinthians  
+Internacional 3 - 3 Goiás        
+Atlético PR   2 - 0 Botafogo     
+Grêmio        1 - 0 Ponte Preta  
+Goiás         0 - 0 Atlético MG  
+Náutico       1 - 4 Atlético PR  
+Portugues     4 - 2 Bahia        
+Fluminense    0 - 2 Santos       
+Corinthians   4 - 0 Flamengo     
+Vitória       0 - 1 Criciúma     
+Botafogo      0 - 0 São Paulo    
+Coritiba      0 - 0 Internacional
+Cruzeiro      5 - 3 Vasco da Gama
+Goiás         2 - 0 Grêmio       
+Flamengo      2 - 1 Vitória      
+Atlético PR   2 - 1 Santos       
+Portugues     2 - 1 Ponte Preta  
+Bahia         1 - 3 Cruzeiro     
+Internacional 1 - 0 Corinthians  
+Atlético MG   2 - 2 Fluminense   
+Botafogo      3 - 1 Coritiba     
+Náutico       0 - 3 Vasco da Gama
+São Paulo     1 - 2 Criciúma     
+Fluminense    1 - 0 Bahia        
+Vitória       1 - 1 Atlético MG  
+Ponte Preta   1 - 3 Internacional
+Santos        1 - 0 Goiás        
+Grêmio        3 - 2 Portugues    
+Corinthians   0 - 0 Náutico      
+Cruzeiro      1 - 0 Flamengo     
+Coritiba      2 - 0 São Paulo    
+Criciúma      1 - 2 Botafogo     
+Vasco da Gama 0 - 0 Atlético PR  
+Atlético PR   1 - 1 Fluminense   
+Goiás         1 - 2 Cruzeiro     
+Bahia         2 - 2 Criciúma     
+Botafogo      1 - 0 Corinthians  
+Náutico       0 - 2 Grêmio       
+Portugues     2 - 0 Vasco da Gama
+Internacional 2 - 2 Vitória      
+Flamengo      2 - 1 Santos       
+São Paulo     1 - 0 Ponte Preta  
+Atlético MG   3 - 0 Coritiba     
+Cruzeiro      1 - 0 Atlético PR  
+Fluminense    2 - 1 Portugues    
+Corinthians   1 - 2 Goiás        
+Coritiba      2 - 2 Bahia        
+Ponte Preta   1 - 1 Flamengo     
+Criciúma      0 - 1 Internacional
+Vasco da Gama 0 - 2 São Paulo    
+Santos        1 - 2 Botafogo     
+Vitória       2 - 1 Náutico      
+Grêmio        0 - 1 Atlético MG  
+Vasco da Gama 1 - 2 Vitória      
+Grêmio        1 - 1 Santos       
+Criciúma      1 - 2 Fluminense   
+Coritiba      2 - 2 Goiás        
+Cruzeiro      3 - 0 Botafogo     
+Ponte Preta   2 - 0 Corinthians  
+São Paulo     1 - 0 Atlético MG  
+Flamengo      2 - 4 Atlético PR  
+Bahia         2 - 0 Internacional
+Portugues     3 - 0 Náutico      
+Fluminense    1 - 1 Coritiba     
+Vitória       0 - 0 Grêmio       
+Internacional 0 - 1 Portugues    
+Goiás         1 - 0 São Paulo    
+Náutico       0 - 0 Flamengo     
+Corinthians   0 - 0 Cruzeiro     
+Botafogo      1 - 2 Bahia        
+Atlético MG   2 - 1 Vasco da Gama
+Atlético PR   1 - 0 Ponte Preta  
+Santos        2 - 1 Criciúma     
+Goiás         1 - 2 Fluminense   
+Náutico       3 - 0 Coritiba     
+Botafogo      0 - 1 Ponte Preta  
+Flamengo      4 - 1 Criciúma     
+São Paulo     0 - 1 Grêmio       
+Bahia         0 - 0 Vasco da Gama
+Portugues     4 - 0 Corinthians  
+Internacional 1 - 2 Cruzeiro     
+Atlético MG   3 - 1 Santos       
+Atlético PR   3 - 5 Vitória      
+Criciúma      1 - 1 Atlético MG  
+Ponte Preta   1 - 2 Náutico      
+Grêmio        1 - 0 Atlético PR  
+Cruzeiro      4 - 0 Portugues    
+Fluminense    1 - 1 Botafogo     
+Vitória       2 - 1 Goiás        
+Corinthians   2 - 0 Bahia        
+Coritiba      0 - 2 Flamengo     
+Santos        3 - 0 São Paulo    
+Vasco da Gama 3 - 1 Internacional
+Botafogo      0 - 1 Grêmio       
+São Paulo     3 - 2 Vitória      
+Flamengo      1 - 1 Vasco da Gama
+Náutico       1 - 4 Cruzeiro     
+Atlético MG   0 - 0 Corinthians  
+Atlético PR   2 - 1 Coritiba     
+Internacional 1 - 0 Fluminense   
+Goiás         1 - 1 Criciúma     
+Portugues     3 - 0 Santos       
+Bahia         1 - 1 Ponte Preta  
+Grêmio        1 - 2 Criciúma     
+Coritiba      1 - 0 Santos       
+Ponte Preta   2 - 0 Atlético MG  
+Bahia         2 - 0 Vitória      
+Corinthians   0 - 0 Atlético PR  
+Vasco da Gama 1 - 0 Fluminense   
+Náutico       1 - 3 Botafogo     
+Cruzeiro      0 - 2 São Paulo    
+Portugues     1 - 2 Goiás        
+Flamengo      2 - 1 Internacional
+Fluminense    1 - 1 Grêmio       
+Vitória       2 - 1 Coritiba     
+Santos        2 - 1 Ponte Preta  
+Criciúma      3 - 2 Vasco da Gama
+Atlético MG   1 - 0 Cruzeiro     
+Internacional 4 - 1 Náutico      
+São Paulo     0 - 0 Corinthians  
+Goiás         3 - 1 Bahia        
+Atlético PR   1 - 0 Portugues    
+Botafogo      2 - 1 Flamengo     
+Cruzeiro      1 - 0 Fluminense   
+Santos        0 - 0 Internacional
+Ponte Preta   1 - 0 Coritiba     
+Criciúma      1 - 3 Portugues    
+São Paulo     3 - 0 Náutico      
+Flamengo      2 - 1 Bahia        
+Atlético PR   1 - 0 Atlético MG  
+Grêmio        1 - 0 Corinthians  
+Vasco da Gama 0 - 2 Goiás        
+Vitória       1 - 0 Botafogo     
+Fluminense    1 - 1 Ponte Preta  
+Náutico       1 - 5 Santos       
+Corinthians   1 - 0 Criciúma     
+Bahia         0 - 1 São Paulo    
+Internacional 2 - 2 Grêmio       
+Goiás         3 - 0 Atlético PR  
+Atlético MG   1 - 0 Flamengo     
+Coritiba      2 - 1 Cruzeiro     
+Portugues     1 - 1 Vitória      
+Botafogo      2 - 2 Vasco da Gama
+Botafogo      1 - 0 Atlético MG  
+Cruzeiro      5 - 3 Criciúma     
+Corinthians   1 - 1 Santos       
+Bahia         1 - 1 Atlético PR  
+Internacional 2 - 3 São Paulo    
+Ponte Preta   2 - 1 Vasco da Gama
+Portugues     0 - 0 Flamengo     
+Náutico       0 - 2 Goiás        
+Coritiba      4 - 0 Grêmio       
+Fluminense    2 - 3 Vitória      
+São Paulo     2 - 1 Portugues    
+Vasco da Gama 2 - 1 Coritiba     
+Atlético MG   5 - 0 Náutico      
+Vitória       1 - 1 Corinthians  
+Grêmio        0 - 0 Bahia        
+Goiás         1 - 0 Botafogo     
+Santos        0 - 1 Cruzeiro     
+Criciúma      1 - 1 Ponte Preta  
+Atlético PR   1 - 0 Internacional
+Flamengo      1 - 0 Fluminense   
+Bahia         0 - 0 Atlético MG  
+Portugues     0 - 0 Coritiba     
+Flamengo      1 - 1 Goiás        
+Cruzeiro      3 - 0 Grêmio       
+Atlético PR   3 - 0 São Paulo    
+Internacional 2 - 1 Botafogo     
+Ponte Preta   0 - 3 Vitória      
+Náutico       0 - 1 Criciúma     
+Corinthians   1 - 0 Fluminense   
+Vasco da Gama 2 - 2 Santos       
+Grêmio        1 - 0 Vasco da Gama
+Goiás         2 - 0 Ponte Preta  
+Criciúma      2 - 1 Atlético PR  
+Botafogo      0 - 0 Portugues    
+São Paulo     2 - 0 Flamengo     
+Vitória       1 - 3 Cruzeiro     
+Coritiba      0 - 1 Corinthians  
+Santos        3 - 0 Bahia        
+Fluminense    2 - 0 Náutico      
+Atlético MG   2 - 1 Internacional
+Botafogo      4 - 0 Atlético PR  
+Coritiba      1 - 2 Criciúma     
+Cruzeiro      2 - 2 Ponte Preta  
+Fluminense    2 - 1 São Paulo    
+Corinthians   0 - 0 Vasco da Gama
+Vitória       2 - 0 Santos       
+Grêmio        2 - 1 Flamengo     
+Goiás         3 - 1 Internacional
+Náutico       0 - 1 Bahia        
+Portugues     2 - 0 Atlético MG  
+Vasco da Gama 2 - 1 Cruzeiro     
+Criciúma      1 - 1 Vitória      
+Atlético MG   4 - 1 Goiás        
+Atlético PR   6 - 1 Náutico      
+Santos        1 - 0 Fluminense   
+Flamengo      1 - 0 Corinthians  
+Ponte Preta   1 - 1 Grêmio       
+São Paulo     1 - 1 Botafogo     
+Bahia         1 - 0 Portugues    
+Internacional 0 - 0 Coritiba     
+Fluminense    2 - 2 Atlético MG  
+Corinthians   0 - 0 Internacional
+Vitória       4 - 2 Flamengo     
+Ponte Preta   0 - 2 Portugues    
+Criciúma      1 - 0 São Paulo    
+Cruzeiro      1 - 2 Bahia        
+Coritiba      2 - 1 Botafogo     
+Vasco da Gama 2 - 0 Náutico      
+Santos        2 - 1 Atlético PR  
+Grêmio        1 - 0 Goiás        
+Flamengo      1 - 1 Cruzeiro     
+Náutico       1 - 0 Corinthians  
+Atlético MG   2 - 2 Vitória      
+Atlético PR   5 - 1 Vasco da Gama
+Portugues     0 - 0 Grêmio       
+São Paulo     0 - 1 Coritiba     
+Bahia         1 - 2 Fluminense   
+Internacional 0 - 0 Ponte Preta  
+Goiás         0 - 3 Santos       
+Botafogo      3 - 0 Criciúma     
