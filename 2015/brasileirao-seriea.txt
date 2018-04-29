@@ -1,4 +1,4 @@
-Palmeira      2 - 2 Atlético MG  
+Palmeiras      2 - 2 Atlético MG  
 chapecoense   2 - 1 Coritiba     
 Fluminense    1 - 0 Joinvile     
 Grêmio        3 - 3 Ponte Preta  
@@ -17,11 +17,11 @@ Santos        1 - 0 Cruzeiro
 Flamengo      2 - 2 Sport Recife 
 Internacional 1 - 0 Avaí         
 Ponte Preta   1 - 0 São Paulo    
-Joinvile      0 - 0 Palmeira     
+Joinvile      0 - 0 Palmeiras     
 São Paulo     3 - 0 Joinvile     
 Vasco da Gama 1 - 1 Internacional
 Grêmio        1 - 0 Figueirense  
-Palmeira      0 - 1 Goiás        
+Palmeiras      0 - 1 Goiás        
 Fluminense    0 - 0 Corinthians  
 Avaí          2 - 1 Flamengo     
 Atlético PR   1 - 0 Atlético MG  
@@ -32,7 +32,7 @@ Ponte Preta   3 - 1 chapecoense
 Coritiba      1 - 2 Avaí         
 Joinvile      1 - 2 Atlético PR  
 Santos        2 - 2 Sport Recife 
-Corinthians   0 - 2 Palmeira     
+Corinthians   0 - 2 Palmeiras     
 Goiás         1 - 1 Grêmio       
 Internacional 0 - 0 São Paulo    
 Atlético MG   3 - 0 Vasco da Gama
@@ -46,7 +46,7 @@ Grêmio        3 - 1 Corinthians
 Cruzeiro      1 - 0 Flamengo     
 Avaí          1 - 4 Atlético MG  
 Fluminense    2 - 0 Coritiba     
-Palmeira      1 - 1 Internacional
+Palmeiras      1 - 1 Internacional
 Sport Recife  1 - 0 Goiás        
 Santos        2 - 2 Ponte Preta  
 Flamengo      1 - 0 chapecoense  
@@ -57,7 +57,7 @@ Joinvile      0 - 1 Corinthians
 Internacional 2 - 0 Coritiba     
 Fluminense    0 - 0 Sport Recife 
 Goiás         0 - 1 Avaí         
-Figueirense   2 - 1 Palmeira     
+Figueirense   2 - 1 Palmeiras     
 Atlético MG   2 - 2 Santos       
 Coritiba      0 - 1 Flamengo     
 Corinthians   2 - 1 Internacional
@@ -67,12 +67,12 @@ Sport Recife  2 - 1 Joinvile
 Ponte Preta   0 - 0 Goiás        
 Grêmio        2 - 1 Atlético PR  
 Avaí          1 - 1 Figueirense  
-Palmeira      2 - 1 Fluminense   
+Palmeiras      2 - 1 Fluminense   
 Figueirense   0 - 0 Internacional
 Flamengo      0 - 2 Atlético MG  
 Santos        1 - 0 Corinthians  
 Sport Recife  2 - 1 Vasco da Gama
-Grêmio        1 - 0 Palmeira     
+Grêmio        1 - 0 Palmeiras     
 Cruzeiro      0 - 1 chapecoense  
 Atlético PR   2 - 2 Coritiba     
 São Paulo     1 - 1 Avaí         
@@ -84,14 +84,14 @@ Corinthians   2 - 1 Figueirense
 Atlético MG   1 - 0 Joinvile     
 Coritiba      1 - 0 Cruzeiro     
 Goiás         1 - 2 Fluminense   
-Palmeira      4 - 0 São Paulo    
+Palmeiras      4 - 0 São Paulo    
 Ponte Preta   2 - 1 Atlético PR  
 Vasco da Gama 1 - 0 Flamengo     
 Internacional 1 - 0 Santos       
 Vasco da Gama 1 - 0 Avaí         
 Sport Recife  3 - 0 Internacional
 Atlético MG   2 - 0 Coritiba     
-Palmeira      2 - 0 chapecoense  
+Palmeiras      2 - 0 chapecoense  
 Grêmio        1 - 0 Cruzeiro     
 Joinvile      0 - 1 Flamengo     
 Atlético PR   2 - 1 São Paulo    
@@ -105,13 +105,13 @@ Avaí          2 - 2 Sport Recife
 Goiás         0 - 0 Corinthians  
 São Paulo     0 - 0 Fluminense   
 Santos        1 - 3 Grêmio       
-Ponte Preta   0 - 2 Palmeira     
+Ponte Preta   0 - 2 Palmeiras     
 Flamengo      1 - 2 Figueirense  
 Internacional 1 - 3 Atlético MG  
 Coritiba      0 - 0 Ponte Preta  
 Goiás         4 - 1 Santos       
 chapecoense   1 - 0 Grêmio       
-Palmeira      3 - 0 Avaí         
+Palmeiras      3 - 0 Avaí         
 Figueirense   0 - 2 Joinvile     
 Vasco da Gama 0 - 4 São Paulo    
 Internacional 1 - 2 Flamengo     
@@ -127,14 +127,14 @@ Atlético PR   1 - 2 Fluminense
 Flamengo      0 - 3 Corinthians  
 Cruzeiro      1 - 0 Goiás        
 Avaí          2 - 1 chapecoense  
-Sport Recife  2 - 2 Palmeira     
+Sport Recife  2 - 2 Palmeiras     
 Flamengo      1 - 0 Grêmio       
 Internacional 2 - 1 Goiás        
 Corinthians   1 - 0 Atlético MG  
 Atlético PR   1 - 0 chapecoense  
 Sport Recife  2 - 0 São Paulo    
 Figueirense   0 - 0 Coritiba     
-Palmeira      1 - 0 Santos       
+Palmeiras      1 - 0 Santos       
 Fluminense    1 - 2 Vasco da Gama
 Cruzeiro      1 - 1 Avaí         
 Joinvile      1 - 1 Ponte Preta  
@@ -147,12 +147,12 @@ São Paulo     1 - 0 Cruzeiro
 Coritiba      1 - 1 Corinthians  
 Goiás         0 - 1 Flamengo     
 Ponte Preta   0 - 0 Internacional
-Vasco da Gama 1 - 4 Palmeira     
+Vasco da Gama 1 - 4 Palmeiras     
 Corinthians   3 - 0 Vasco da Gama
 Atlético MG   3 - 1 São Paulo    
 Fluminense    1 - 0 Grêmio       
 Coritiba      1 - 1 Goiás        
-Palmeira      0 - 1 Atlético PR  
+Palmeiras      0 - 1 Atlético PR  
 Joinvile      2 - 0 Avaí         
 Figueirense   3 - 1 Ponte Preta  
 Flamengo      2 - 2 Santos       
@@ -165,11 +165,11 @@ Atlético PR   1 - 1 Sport Recife
 Goiás         0 - 0 Atlético MG  
 Ponte Preta   1 - 0 Flamengo     
 São Paulo     1 - 1 Corinthians  
-Cruzeiro      2 - 1 Palmeira     
+Cruzeiro      2 - 1 Palmeiras     
 Grêmio        5 - 0 Internacional
 chapecoense   2 - 2 Figueirense  
 Flamengo      3 - 2 Atlético PR  
-Coritiba      2 - 1 Palmeira     
+Coritiba      2 - 1 Palmeiras     
 Goiás         0 - 0 chapecoense  
 Santos        1 - 0 Vasco da Gama
 Corinthians   4 - 3 Sport Recife 
@@ -181,7 +181,7 @@ Joinvile      3 - 0 Cruzeiro
 Vasco da Gama 0 - 1 Coritiba     
 Atlético PR   0 - 0 Santos       
 São Paulo     0 - 3 Goiás        
-Palmeira      4 - 2 Flamengo     
+Palmeiras      4 - 2 Flamengo     
 Fluminense    2 - 1 Figueirense  
 Sport Recife  1 - 1 Ponte Preta  
 Cruzeiro      0 - 0 Internacional
@@ -197,14 +197,14 @@ Internacional 2 - 0 Atlético PR
 Joinvile      2 - 1 Fluminense   
 Flamengo      2 - 1 São Paulo    
 Corinthians   3 - 0 Cruzeiro     
-Atlético MG   2 - 1 Palmeira     
+Atlético MG   2 - 1 Palmeiras     
 Vasco da Gama 0 - 1 Figueirense  
 São Paulo     3 - 0 Ponte Preta  
 Grêmio        0 - 0 Coritiba     
 Avaí          3 - 0 Internacional
 Sport Recife  0 - 1 Flamengo     
 chapecoense   1 - 3 Corinthians  
-Palmeira      3 - 2 Joinvile     
+Palmeiras      3 - 2 Joinvile     
 Fluminense    1 - 2 Atlético MG  
 Cruzeiro      0 - 1 Santos       
 Atlético PR   3 - 0 Goiás        
@@ -215,7 +215,7 @@ Atlético MG   0 - 1 Atlético PR
 Flamengo      3 - 0 Avaí         
 Corinthians   2 - 0 Fluminense   
 Coritiba      0 - 0 Sport Recife 
-Goiás         1 - 0 Palmeira     
+Goiás         1 - 0 Palmeiras     
 Santos        3 - 1 chapecoense  
 Figueirense   0 - 2 Grêmio       
 São Paulo     2 - 0 Internacional
@@ -223,13 +223,13 @@ Vasco da Gama 1 - 2 Atlético MG
 Atlético PR   0 - 0 Joinvile     
 Cruzeiro      5 - 1 Figueirense  
 chapecoense   0 - 0 Ponte Preta  
-Palmeira      3 - 3 Corinthians  
+Palmeiras      3 - 3 Corinthians  
 Avaí          0 - 2 Coritiba     
 Grêmio        2 - 1 Goiás        
 Fluminense    1 - 3 Flamengo     
 Sport Recife  1 - 1 Santos       
 Ponte Preta   0 - 1 Vasco da Gama
-Internacional 1 - 0 Palmeira     
+Internacional 1 - 0 Palmeiras     
 Atlético MG   2 - 0 Avaí         
 Figueirense   1 - 1 Atlético PR  
 Coritiba      1 - 1 Fluminense   
@@ -239,7 +239,7 @@ Goiás         1 - 0 Sport Recife
 Joinvile      0 - 0 chapecoense  
 Flamengo      2 - 0 Cruzeiro     
 Coritiba      0 - 1 Internacional
-Palmeira      2 - 0 Figueirense  
+Palmeiras      2 - 0 Figueirense  
 Corinthians   3 - 0 Joinvile     
 Ponte Preta   3 - 1 Santos       
 Vasco da Gama 2 - 0 Atlético PR  
@@ -248,7 +248,7 @@ Cruzeiro      1 - 1 Atlético MG
 chapecoense   1 - 3 Flamengo     
 Sport Recife  1 - 0 Fluminense   
 Avaí          2 - 1 Goiás        
-Fluminense    1 - 4 Palmeira     
+Fluminense    1 - 4 Palmeiras     
 Goiás         1 - 2 Ponte Preta  
 Joinvile      1 - 1 Sport Recife 
 Figueirense   0 - 1 Avaí         
@@ -258,7 +258,7 @@ Cruzeiro      2 - 2 Vasco da Gama
 Santos        4 - 0 Atlético MG  
 São Paulo     0 - 0 chapecoense  
 Flamengo      0 - 2 Coritiba     
-Palmeira      3 - 2 Grêmio       
+Palmeiras      3 - 2 Grêmio       
 Internacional 1 - 1 Figueirense  
 Ponte Preta   3 - 1 Fluminense   
 Corinthians   2 - 0 Santos       
@@ -272,7 +272,7 @@ Fluminense    2 - 0 Goiás
 Grêmio        3 - 1 Avaí         
 Atlético PR   1 - 2 Ponte Preta  
 Santos        3 - 1 Internacional
-São Paulo     1 - 1 Palmeira     
+São Paulo     1 - 1 Palmeiras     
 Flamengo      1 - 2 Vasco da Gama
 Figueirense   1 - 3 Corinthians  
 Joinvile      2 - 2 Atlético MG  
@@ -287,18 +287,18 @@ Goiás         2 - 3 Figueirense
 Santos        3 - 1 Fluminense   
 Ponte Preta   2 - 2 Corinthians  
 Cruzeiro      0 - 0 Grêmio       
-chapecoense   5 - 1 Palmeira     
+chapecoense   5 - 1 Palmeiras     
 Atlético MG   2 - 1 Internacional
 Sport Recife  3 - 0 Avaí         
 Joinvile      3 - 1 Coritiba     
 Figueirense   3 - 0 Flamengo     
-Palmeira      0 - 1 Ponte Preta  
+Palmeiras      0 - 1 Ponte Preta  
 Fluminense    2 - 0 São Paulo    
 Atlético PR   2 - 2 Cruzeiro     
 Vasco da Gama 1 - 1 chapecoense  
 Corinthians   3 - 0 Goiás        
 Grêmio        1 - 0 Santos       
-Avaí          1 - 3 Palmeira     
+Avaí          1 - 3 Palmeiras     
 Joinvile      1 - 0 Figueirense  
 Cruzeiro      2 - 0 Fluminense   
 Ponte Preta   3 - 0 Coritiba     
@@ -311,7 +311,7 @@ Sport Recife  4 - 1 Atlético MG
 Fluminense    0 - 1 Atlético PR  
 Internacional 1 - 0 Joinvile     
 Figueirense   0 - 0 Santos       
-Palmeira      0 - 2 Sport Recife 
+Palmeiras      0 - 2 Sport Recife 
 Corinthians   1 - 0 Flamengo     
 Vasco da Gama 0 - 0 Grêmio       
 Coritiba      1 - 2 São Paulo    
@@ -324,7 +324,7 @@ Avaí          1 - 1 Cruzeiro
 Coritiba      1 - 1 Figueirense  
 Grêmio        2 - 0 Flamengo     
 Atlético MG   0 - 3 Corinthians  
-Santos        2 - 1 Palmeira     
+Santos        2 - 1 Palmeiras     
 chapecoense   0 - 0 Atlético PR  
 Vasco da Gama 0 - 1 Fluminense   
 Goiás         2 - 1 Internacional
@@ -335,12 +335,12 @@ Fluminense    2 - 3 chapecoense
 Flamengo      4 - 1 Goiás        
 Cruzeiro      2 - 1 São Paulo    
 Figueirense   0 - 1 Atlético MG  
-Palmeira      0 - 2 Vasco da Gama
+Palmeiras      0 - 2 Vasco da Gama
 Joinvile      0 - 0 Santos       
 Sport Recife  1 - 0 Grêmio       
 Cruzeiro      3 - 0 Sport Recife 
 Goiás         1 - 3 Coritiba     
-Atlético PR   3 - 3 Palmeira     
+Atlético PR   3 - 3 Palmeiras     
 Avaí          2 - 1 Joinvile     
 Ponte Preta   0 - 1 Figueirense  
 chapecoense   1 - 0 Internacional
@@ -348,7 +348,7 @@ Grêmio        1 - 0 Fluminense
 Vasco da Gama 1 - 1 Corinthians  
 São Paulo     4 - 2 Atlético MG  
 Santos        0 - 0 Flamengo     
-Palmeira      1 - 1 Cruzeiro     
+Palmeiras      1 - 1 Cruzeiro     
 Corinthians   6 - 1 São Paulo    
 Joinvile      1 - 2 Vasco da Gama
 Internacional 1 - 0 Grêmio       
@@ -366,12 +366,12 @@ Vasco da Gama 1 - 0 Santos
 Grêmio        2 - 1 Atlético MG  
 Cruzeiro      3 - 0 Joinvile     
 chapecoense   1 - 3 Goiás        
-Palmeira      0 - 2 Coritiba     
+Palmeiras      0 - 2 Coritiba     
 Atlético PR   3 - 0 Flamengo     
 Corinthians   1 - 1 Avaí         
 Santos        5 - 1 Atlético PR  
 Ponte Preta   0 - 1 Sport Recife 
-Flamengo      1 - 2 Palmeira     
+Flamengo      1 - 2 Palmeiras     
 Internacional 2 - 0 Cruzeiro     
 Atlético MG   3 - 0 chapecoense  
 Figueirense   1 - 0 Fluminense   
